@@ -79,29 +79,55 @@ Parameters used:
 
 ```
 -----Training for 6000 episodes using a 256x256 architecture-----
-
-Episode 200	Average Score: 0.009
-Episode 400	Average Score: 0.021
-Episode 600	Average Score: 0.001
-Episode 800	Average Score: 0.006
-Episode 1000	Average Score: 0.012
-Episode 1200	Average Score: 0.071
-Episode 1400	Average Score: 0.119
-Episode 1600	Average Score: 0.131
-Episode 1800	Average Score: 0.134
-Episode 2000	Average Score: 0.410
-Episode 2200	Average Score: 0.219
-Episode 2400	Average Score: 0.254
-Episode 2600	Average Score: 0.127
-Episode 2800	Average Score: 0.117
-Episode 3000	Average Score: 0.165
-Episode 3200	Average Score: 0.088
-Episode 3400	Average Score: 0.103
-Episode 3600	Average Score: 0.248
-Episode 3800	Average Score: 0.248
-Episode 4000	Average Score: 0.229
-Episode 4097	Average Score: 0.510
-Environment solved in 4097 episodes!	Average Score: 0.510
+Episode 100	Average Score: 0.015
+Episode 200	Average Score: 0.019
+Episode 300	Average Score: 0.010
+Episode 400	Average Score: 0.000
+Episode 500	Average Score: 0.000
+Episode 600	Average Score: 0.003
+Episode 700	Average Score: 0.007
+Episode 800	Average Score: 0.014
+Episode 900	Average Score: 0.014
+Episode 1000	Average Score: 0.018
+Episode 1100	Average Score: 0.006
+Episode 1200	Average Score: 0.011
+Episode 1300	Average Score: 0.034
+Episode 1400	Average Score: 0.065
+Episode 1500	Average Score: 0.045
+Episode 1600	Average Score: 0.047
+Episode 1700	Average Score: 0.014
+Episode 1800	Average Score: 0.015
+Episode 1900	Average Score: 0.042
+Episode 2000	Average Score: 0.044
+Episode 2100	Average Score: 0.039
+Episode 2200	Average Score: 0.057
+Episode 2300	Average Score: 0.065
+Episode 2400	Average Score: 0.057
+Episode 2500	Average Score: 0.053
+Episode 2600	Average Score: 0.084
+Episode 2700	Average Score: 0.071
+Episode 2800	Average Score: 0.067
+Episode 2900	Average Score: 0.056
+Episode 3000	Average Score: 0.068
+Episode 3100	Average Score: 0.074
+Episode 3200	Average Score: 0.089
+Episode 3300	Average Score: 0.075
+Episode 3400	Average Score: 0.093
+Episode 3500	Average Score: 0.092
+Episode 3600	Average Score: 0.102
+Episode 3700	Average Score: 0.130
+Episode 3800	Average Score: 0.178
+Episode 3900	Average Score: 0.193
+Episode 4000	Average Score: 0.220
+Episode 4100	Average Score: 0.358
+Episode 4200	Average Score: 0.262
+Episode 4300	Average Score: 0.258
+Episode 4400	Average Score: 0.183
+Episode 4500	Average Score: 0.280
+Episode 4600	Average Score: 0.364
+Episode 4700	Average Score: 0.440
+Episode 4757	Average Score: 0.500
+Environment solved in 4757 episodes!	Average Score: 0.500
 ```
 
 | ![results](average_scores_plot_6000__256_256.png) |
